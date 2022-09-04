@@ -1,0 +1,2 @@
+# libfprint-from-pacman-cache
+This is the package that pacman was trying to install so I could use the fingerprint scanner on my laptop. Oddly, the only model of scanner in the lib file udev rules is the one that just happens to be made with this laptop.. When I was little there was a game I got from a shareware site back in the late 80s when Macintosh was still almost gameless, but it was called Hunting the Elan. I finally found it. 
