@@ -1,0 +1,10 @@
+prefix=/usr
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: libfprint-2
+Description: Generic C API for fingerprint reader access
+Version: 1.94.4
+Requires: gio-unix-2.0 >= 2.56, gobject-2.0 >= 2.56
+Libs: -L${libdir} -lfprint-2
+Cflags: -I${includedir}/libfprint-2
